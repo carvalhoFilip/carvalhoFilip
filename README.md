@@ -5,13 +5,15 @@
 - 🚀 Sempre buscando experiências novas e paticipativas
 - 📫 Contate-me através do email ou linkedin no perfil !!
 
+
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Filipe&show_icons=true&theme=dark#gh-dark-mode-only" alt="Filipe's GitHub stats" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe&layout=compact&theme=dark" alt="Top Langs" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=carvalhoFilip&show_icons=true&theme=dark#gh-dark-mode-only" alt="Filipe's GitHub stats" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhoFilip&layout=compact&theme=dark" alt="Top Langs" width="400"/></td>
   </tr>
 </table>
 
+  
 <div class="social-links">
     <a href="https://www.instagram.com/cgfillipe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://discord.com/users/eoFilip#5468"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
