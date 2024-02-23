@@ -1,7 +1,7 @@
 ### Opa... Me chamo Filipe de Carvalho Godoy
 
 - 🔭 Estudante de Bacharel em Sistemas de Informação 
-- 🌱 Estudando e aperfeiçoando habilidades em desenvolvimento Mobile - Android/IOS
+- 🌱 Estudando e aperfeiçoando habilidades
 - 🚀 Sempre buscando experiências novas e paticipativas
 - 📫 Contate-me através do email ou linkedin no perfil !!
 
