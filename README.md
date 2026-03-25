@@ -1,6 +1,6 @@
 ## 👋 Filipe de Carvalho Godoy
 
-🚀 Criador do **BizLens** — SaaS que analisa a viabilidade de negócios com inteligência de dados  
+🚀 Criador do **[BizLens](https://bizlens.online)** — SaaS que analisa a viabilidade de negócios com inteligência de dados  
 💻 Desenvolvedor focado em **produtos reais**, não apenas código  
 🎓 Bacharelado em Sistemas de Informação  
 📍 Brasil  
