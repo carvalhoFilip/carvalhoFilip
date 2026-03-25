@@ -1,43 +1,41 @@
-## 👋 Me chamo Filipe de Carvalho Godoy
+## 👋 Filipe de Carvalho Godoy
 
-🎓 Estudante de **Bacharelado em Sistemas de Informação**  
-💻 Desenvolvedor focado em soluções modernas e bem estruturadas  
-🚀 Em constante evolução técnica e prática  
-📍 Brasil
+🚀 Criador do **BizLens** — SaaS que analisa a viabilidade de negócios com inteligência de dados  
+💻 Desenvolvedor focado em **produtos reais**, não apenas código  
+🎓 Bacharelado em Sistemas de Informação  
+📍 Brasil  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante e desenvolvedor com interesse em **desenvolvimento web moderno**, **arquitetura de sistemas** e **boas práticas de programação**.  
-Busco sempre evoluir por meio de projetos acadêmicos e pessoais, aplicando tecnologia para resolver problemas reais.
+Sou desenvolvedor com foco em **construção de SaaS e sistemas escaláveis**, transformando ideias em produtos reais.
+Tenho como objetivo construir soluções que unem **tecnologia, negócio e execução prática**, sempre priorizando impacto real.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Projeto em destaque
 
-| Front-end | Back-end |
-|----------|----------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,python" /> |
+### 🔍 BizLens
+SaaS de análise de viabilidade de negócios
 
-| Banco de Dados | Cloud & Deploy |
-|---------------|---------------|
-| <img src="https://skillicons.dev/icons?i=postgres,mysql" /> | <img src="https://skillicons.dev/icons?i=aws,vercel" /> |
+- 📊 Projeções financeiras (faturamento, custos, lucro)
+- 📍 Análise de mercado por cidade e região
+- ⚖️ Score de viabilidade e risco
+- 🔗 Relatórios compartilháveis
 
-| Outros |
-|--------|
-| <img src="https://skillicons.dev/icons?i=git,github,flutter" /> |
-
+> Foco: transformar ideias em decisões com base em dados
 
 ---
+
+## 🛠️ Stack principal
+
+<img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,python,postgres,vercel" />
+
+---
+
 ## 🌐 Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flcgodoy/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/eoFilip)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-godoy/)
-
----
-
-## 📌 Objetivo
-
-Atuar como desenvolvedor, aplicando boas práticas, aprendendo continuamente e contribuindo para projetos que gerem impacto real.
