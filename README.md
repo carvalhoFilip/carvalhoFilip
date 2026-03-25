@@ -3,7 +3,7 @@
 💰 Building SaaS products focused on business validation and real-world decision making  
 🚀 Founder of **[BizLens](https://bizlens.online)**  
 💻 Full-stack developer turning ideas into scalable products  
-🎓 Bacharelado em Sistemas de Informação
+🎓 Bacharelado em Sistemas de Informação  
 📍 Brazil  
 
 ---
