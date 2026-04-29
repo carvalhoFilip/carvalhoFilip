@@ -1,7 +1,7 @@
 ## 👋 Filipe Godoy
 
 💰 Building SaaS products focused on business validation and real-world decision making  
-🚀 Founder of **[BizLens](https://bizlens.online)** / **[OddsMap](https://odds-map.vercel.app/)**  / **[Pecuária Pro](https://pecuariapro.vercel.app/)**  
+🚀 Founder of **[BizLens](https://bizlens.online)** / **[Pecuária Pro](https://pecuariapro.vercel.app/)**  
 💻 Full-stack developer turning ideas into scalable products  
 🎓 Bacharelado em Sistemas de Informação  
 📍 Brazil  
