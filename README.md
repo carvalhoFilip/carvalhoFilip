@@ -1,7 +1,7 @@
 ## 👋 Filipe Godoy
 
 💰 Building products focused on business validation and real-world decision making  
-🚀 Founder and creator
+🚀 Founder and creator  
 💻 Full-stack developer turning ideas into scalable products  
 🎓 Bacharelado em Sistemas de Informação  
 📍 Brazil  
