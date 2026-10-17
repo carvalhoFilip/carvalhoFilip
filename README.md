@@ -1,27 +1,17 @@
-## 👋 Filipe Godoy
+<div align="center">
 
-💰 Building products focused on business validation and real-world decision making  
-🚀 Founder and creator  
-💻 Full-stack developer turning ideas into scalable products  
-🎓 Bacharelado em Sistemas de Informação  
-📍 Brazil  
+### Filipe Godoy
 
----
+Founder & full-stack developer · SaaS para decisões de negócio  
+Aracaju, Brasil · Sistemas de Informação @ UFS
 
-## 🧠 About
+<br>
 
-Construo softwares que ajudam pessoas a tomar decisões e solucionar problemas.
-Foco em unir **tecnologia, negócio e execução** para criar soluções com impacto real.
+<img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,python,postgres,vercel" height="36" />
 
----
+<br><br>
 
-## ⚙️ Stack
+<a href="https://www.linkedin.com/in/filipe-godoy/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/flcgodoy/"><img src="https://skillicons.dev/icons?i=instagram" height="28" /></a>
 
-<img src="https://skillicons.dev/icons?i=ts,next,react,nodejs,python,postgres,vercel" />
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-godoy/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flcgodoy/)
+</div>
